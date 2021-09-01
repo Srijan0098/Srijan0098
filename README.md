@@ -11,8 +11,6 @@
 
 - Take a look at my Computer Vision projects [here ](https://github.com/Srijan0098/Computer-Vision)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Srijan0098](https://github.com/Srijan0098)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics**
 
 - 📫 Reach me at **srijanmallick98@gmail.com**
