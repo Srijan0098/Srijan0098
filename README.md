@@ -2,7 +2,8 @@
 <h3 align="center">A passionate and hardworking postgraduate student of Big Data Analytics from India. Interested in Deep Learning, Computer Vision, Optimisation techniques and Statistics.</h3>
 <br>
 <br>
- I’m currently working on <b>Multi-label Video Classification</b>
+ 
+- I’m currently working on <b>Multi-label Video Classification</b>
 
 - I’m currently learning about **Computer Vision, Natural Language Processing, Time Series Analysis**
 
