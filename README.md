@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@srijanmallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@srijanmallick" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srijan-mallick-3508591b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srijan-mallick-3508591b2/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/srijan-mallick-3508591b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srijan-mallick-3508591b2/" height="30" width="40" /></a>
 <a href="https://fb.com/srijan mallick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Srijan Mallick" height="30" width="40" /></a>
 </p>
 
