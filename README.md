@@ -3,7 +3,7 @@
 <br>
 <br>
  
-- I’m currently working on <b>Multi-label Video Classification</b>
+- I’m currently working on <b>Detecting Human-object Interaction from images</b>
 
 - I’m currently learning about **Computer Vision, Natural Language Processing, Time Series Analysis**
 
