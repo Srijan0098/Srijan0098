@@ -15,7 +15,7 @@
 
 - 📫 Reach me at **srijanmallick98@gmail.com**
 
-- 📄 Know about my experiences [here](Srijan0098.github.io/Srijan_Mallick_Resume.pdf)
+- 📄 Know about my experiences [here](Srijan_Mallick_Resume.pdf)
 
 - ⚡ Fun fact : I love to play the harmonica, play chess, read fiction and watch movies in my leisure
 
