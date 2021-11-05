@@ -9,7 +9,7 @@
 
 - I've previously worked on [Pneumonia Prediction from Chest X-ray images](https://github.com/Srijan0098/Pneumonia-Prediction)
 
-- Take a look at my Computer Vision mini projects [here ](https://github.com/Srijan0098/Computer-Vision)
+- Take a look at my Computer Vision mini projects [here ](https://github.com/Srijan0098/Srijan0098.github.io/blob/main/Srijan_Mallick_Resume.pdf)
 
 - 💬 Ask me about **Machine Learning, Deep Learning, Statistics**
 
