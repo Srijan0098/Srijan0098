@@ -3,11 +3,11 @@
 <br>
 <br>
  
-- I’m currently working on <b>Detecting Human-object Interaction from images</b>
+- I’m currently working at Dr. Reddy's Laboratories as a **Data Science Intern**
 
 - I’m currently learning about **Computer Vision, Natural Language Processing, Time Series Analysis**
 
-- I've previously worked on [Pneumonia Prediction from Chest X-ray images](https://github.com/Srijan0098/Pneumonia-Prediction)
+- The last project I worked on was [**Survival Analysis of Patients with Recurrent Bladder Cancer**](https://github.com/Srijan0098/Survival-Analysis)
 
 - Take a look at my Computer Vision mini projects [here](https://github.com/Srijan0098/Computer-Vision)
 
