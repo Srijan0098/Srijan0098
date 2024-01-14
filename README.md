@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Srijan!</h1>
-<h3 align="center">A passionate and hardworking postgraduate student of Big Data Analytics from India. Interested in Deep Learning, Computer Vision, Optimisation techniques and Statistics.</h3>
+<h3 align="center">A passionate and hardworking Data Analyst from India. Interested in Deep Learning, Computer Vision, Optimisation techniques and Statistics.</h3>
 <br>
 <br>
 
