@@ -2,12 +2,14 @@
 <h3 align="center">A passionate and hardworking postgraduate student of Big Data Analytics from India. Interested in Deep Learning, Computer Vision, Optimisation techniques and Statistics.</h3>
 <br>
 <br>
- 
-- I’m currently working at Dr. Reddy's Laboratories as a **Data Science Intern**
 
-- I’m currently learning about **Computer Vision, Natural Language Processing, Time Series Analysis**
+- I’m currently working at Vista Intelligence Pvt. Ltd. as a **Quant Research Analyst**, where I design intraday trading strategies for NIFTY50 Index Futures, including forecasting and risk management for the same.
 
-- The last project I worked on was [**Survival Analysis of Patients with Recurrent Bladder Cancer**](https://github.com/Srijan0098/Survival-Analysis)
+- My previous work experience includes Dr. Reddy's Laboratories as a **Data Science Intern** where I worked on time series forecasting.
+
+- I’m always passionate about learning more on **Computer Vision, Natural Language Processing and Time Series Analysis**
+
+- Take a look at a Survival Analysis project that I have previously worked on : [**Survival Analysis of Patients with Recurrent Bladder Cancer**](https://github.com/Srijan0098/Survival-Analysis)
 
 - Take a look at my Computer Vision mini projects [here](https://github.com/Srijan0098/Computer-Vision)
 
