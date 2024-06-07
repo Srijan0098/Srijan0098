@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- I’m currently working at Vista Intelligence Pvt. Ltd. as a **Quant Research Analyst**, where I design intraday trading strategies for NIFTY50 Index Futures, including forecasting and risk management for the same.
+- I’m currently working at FeedSense AI Pvt. Ltd. (formerly going by Vista Intelligence Pvt. Ltd.) as a **Quant Research Analyst**, where I design intraday trading strategies for NIFTY50 Index Futures, including forecasting and risk management for the same.
 
 - My previous work experience includes Dr. Reddy's Laboratories as a **Data Science Intern** where I worked on time series forecasting.
 
