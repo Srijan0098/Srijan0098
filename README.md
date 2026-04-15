@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Srijan!</h1>
-<h3 align="center">A passionate and hardworking Data Scientist from India. Interested in Machine Learning, Deep Learning, Computer Vision, Time Series Analysis, Optimisation techniques and Statistics.</h3>
+<h3 align="center">A passionate and hardworking Data Scientist from India. Interested in Machine Learning, Deep Learning, Computer Vision, Time Series Analysis, Mathematics and Statistics.</h3>
 <br>
 <br>
 
