@@ -3,9 +3,9 @@
 <br>
 <br>
 
-- I’m currently working at FeedSense AI Pvt. Ltd. (formerly going by Vista Intelligence Pvt. Ltd.) as a **Research Executive (AI)**, where I design intraday trading strategies for NIFTY50 Index Futures, including forecasting and risk management for the same, as well as long term investment models for stocks listed in NSE.
+- I’m currently working at BNP Paribas ISPL as a **Data Scientist** in the Global Markets - Data and AI Lab team, where I work on tabular and text data to create AI solutions which facilitates the operations in the bank.
 
-- My previous work experience includes Dr. Reddy's Laboratories as a **Data Science Intern** where I worked on time series forecasting.
+- My previous work experience includes designing intraday trading strategies for NIFTY50 Index Futures, including forecasting and risk management for the same, as well as long term investment models and portfolio optimisation for stocks listed in the NSE.
 
 - I’m always passionate about learning more on **Computer Vision, Natural Language Processing and Time Series Analysis**
 
